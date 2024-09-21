@@ -1,5 +1,7 @@
+<h2 align="left">👋 Hi, I'm Deepak, a Final-Year Computer Engineering student at NIT Kurukshetra. </h2>
+
 # 💫 About Me:
-👋 Hi, I'm Deepak, a Full Stack Developer and a Computer Engineering<br> student at NIT Kurukshetra. I specialize in building dynamic web <br>applications using the MERN stack and have a strong foundation in <br>Problem Solving with Data Structures and Algorithms.<br><br>🔧 Technical Skills:<br><br>Frontend: React.js, HTML5, CSS3, JavaScript, Bootstrap<br>Backend: Node.js, Express.js, MongoDB, MySQL<br>Other Tools: Git, REST APIs, JWT Authentication, Python<br>Problem Solving: C++, Data Structures & Algorithms<br><br>🔍 I enjoy creating real-world solutions, tackling challenging problems, <br>and constantly learning new technologies. Check out my repositories <br>to see what I've been working on!
+I specialize in building dynamic web applications using the MERN stack and have a strong foundation in Problem Solving with Data Structures and Algorithms.<br><h3>🔧 Technical Skills:</h3><br>Frontend: React.js, HTML5, CSS3, JavaScript, Bootstrap<br>Backend: Node.js, Express.js, MongoDB, MySQL<br>Other Tools: Git, REST APIs, JWT Authentication, Python<br>Problem Solving: C++, Data Structures & Algorithms<br><br>🔍 I enjoy creating real-world solutions, tackling challenging problems, and constantly learning new technologies. Check out my repositories to see what I've been working on!
 
 
 ## 🌐 Socials:
